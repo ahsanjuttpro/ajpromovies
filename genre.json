@@ -1,6 +1,39 @@
 {
  "genre": [
+    
     {
+      "genrebg": "6iUNJZymJBMXXriQyFZfLAKnjO6.jpg",
+      "genrename": "Action"
+    },
+    {
+      "genrebg": "iNzX5GbtXWyhnZo2cRxsB5z2NQg.jpg",
+      "genrename": "Adventure"
+    },
+    {
+      "genrebg": "6OTRuxpwUUGbmCX3MKP25dOmo59.jpg",
+      "genrename": "Animation"
+    },
+    {
+      "genrebg": "n6rHcGghywOaeO4JEgSMT1jCgVs.jpg",
+      "genrename": "Children"
+    },
+    {
+      "genrebg": "o0TYvii1gab1ThmGFegpF4iyDwf.jpg",
+      "genrename": "Comedy"
+    },
+    {
+      "genrebg": "sw7mordbZxgITU877yTpZCud90M.jpg",
+      "genrename": "Crime"
+    },
+    {
+      "genrebg": "oAr5bgf49vxga9etWoQpAeRMvhp.jpg",
+      "genrename": "Documentary"
+    },
+    {
+      "genrebg": "aZ1ZqJ4uO1RK5gU5jRsO4qG7rJo.jpg",
+      "genrename": "Drama"
+    },
+  {
       "genrebg": "3AFJLBHijyzfDDNakUrShp0LKB9.jpg",
       "genrename": "Fantasy"
     },
@@ -35,38 +68,6 @@
     {
       "genrebg": "wEI3KXY92V6Jffb2KiZFbeYtQ1Z.jpg",
       "genrename": "Western"
-    },
-    {
-      "genrebg": "6iUNJZymJBMXXriQyFZfLAKnjO6.jpg",
-      "genrename": "Action"
-    },
-    {
-      "genrebg": "iNzX5GbtXWyhnZo2cRxsB5z2NQg.jpg",
-      "genrename": "Adventure"
-    },
-    {
-      "genrebg": "6OTRuxpwUUGbmCX3MKP25dOmo59.jpg",
-      "genrename": "Animation"
-    },
-    {
-      "genrebg": "n6rHcGghywOaeO4JEgSMT1jCgVs.jpg",
-      "genrename": "Children"
-    },
-    {
-      "genrebg": "o0TYvii1gab1ThmGFegpF4iyDwf.jpg",
-      "genrename": "Comedy"
-    },
-    {
-      "genrebg": "sw7mordbZxgITU877yTpZCud90M.jpg",
-      "genrename": "Crime"
-    },
-    {
-      "genrebg": "oAr5bgf49vxga9etWoQpAeRMvhp.jpg",
-      "genrename": "Documentary"
-    },
-    {
-      "genrebg": "aZ1ZqJ4uO1RK5gU5jRsO4qG7rJo.jpg",
-      "genrename": "Drama"
     }
   ]
 }
